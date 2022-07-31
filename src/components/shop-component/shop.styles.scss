@@ -1,6 +1,6 @@
 .product-container {
+    grid-column-gap: 69px;
+    grid-row-gap: 69px;
     display: grid;
-    grid-template-columns: repeat(4, 1fr);
-    column-gap: 10px;
-    row-gap: 50px;
+    grid-template-columns: repeat(3, 4fr);
 }
